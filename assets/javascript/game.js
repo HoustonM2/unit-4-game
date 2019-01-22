@@ -1,6 +1,6 @@
 var wincount = 0;
 var losscount = 0;
-var tn2 = Math.floor(Math.random() * 101) + 19;
+var tn2 = Math.floor(Math.random() * 100) + 20;
 $("#tn2").text(tn2);
 
 

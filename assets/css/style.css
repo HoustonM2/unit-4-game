@@ -25,7 +25,10 @@
 }
 
 body{
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwJXHMkYi15DFOmdClzQ5ttyMA18PSnLGnbF9D6mDd3QDT_SmeOA")
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwJXHMkYi15DFOmdClzQ5ttyMA18PSnLGnbF9D6mDd3QDT_SmeOA");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	
 }
 
 #guessNumber{
